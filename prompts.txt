@@ -1,0 +1,21 @@
+1. Integration Assignment: Bidirectional ClickHouse & Flat File Data Ingestion Tool
+   - Objective: Develop a web-based application with a simple UI that facilitates data ingestion between a ClickHouse database and the Flat File platform.
+   - Requirements: Bidirectional flow, JWT-based authentication, column selection, record count reporting, error handling, and optional features like progress bar and data preview.
+
+2. "Add a new property 'age' and a new method 'getAge' to the class Person."
+   - Example prompt for understanding how to structure responses.
+
+3. "Complete the next part."
+   - Request to continue building the application.
+
+4. "Just complete that assignment anyhow."
+   - Request to finalize the assignment.
+
+5. "Complete it."
+   - Request to complete specific sections of the code.
+
+6. "Complete the assignment."
+   - Request to finalize the entire assignment.
+
+7. "Record all prompts in prompts.txt."
+   - Instruction to document all prompts used during the development process.
